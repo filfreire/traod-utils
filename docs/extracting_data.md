@@ -18,6 +18,7 @@
 
 ## Resources
 
+- [veeti512's tutorial "How to import Lara AOD animation into Tomb Editor Wad Tool"](https://github.com/veeti512/wadblender/blob/935935f9d298f81a60cc673f55af6d27a814a728/tutorial.md)
 - [Tomb Raider: The Angel of Darkness Modding, Costumes & Texturing – Discussion (tombraiderforums.com)](https://www.tombraiderforums.com/showthread.php?t=163356)
 - [Nakamichi680’s AoD Levels definitive patch (tombraiderforums.com)](https://www.tombraiderforums.com/showthread.php?t=215413)
 - [Tomb Raider 6 Modding Thread (tombraiderforums.com)](https://www.tombraiderforums.com/showthread.php?t=190254)
